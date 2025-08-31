@@ -1,5 +1,5 @@
 #🌱 Sustainable Agriculture Project – Week 1
-Crop Recommendation System (Machine Learning)
+Crop Recommendation System (Machine Learning) 
 📌 Project Overview
 This project is part of the Sustainable Agriculture course project.
 In Week 1, we focused on building a Crop Recommendation System using Machine Learning.
